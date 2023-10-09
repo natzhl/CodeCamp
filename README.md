@@ -1,4 +1,4 @@
-# CodeCamp
+# My projects
 Projects from Data Analysis with Python course.
 |      Title      |      Libraries    |  Description                |
 | :--------------------:      | :---------------------:      |:---------------------------:|
